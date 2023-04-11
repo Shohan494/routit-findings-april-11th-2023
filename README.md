@@ -5,6 +5,8 @@
 - march got a few, may be one data
 - so far the finding is the same as keen, need to update status based on invoicehub api call response
 
+- checked last 3 invoices, maximum verkoop klant 0
+
 ## leesyprint 
 
 flow
@@ -24,3 +26,5 @@ Route::get('submitLeesyPrintHostfactData', 'LeesyPrintHostfactController@submitL
 
 - ** QUESTION - WE GET SO MANY FILES, WHICH ONE TO PICK? **
 - ** QUESTION - MAIL WAS READ AND MOVED, NEED TO CHECK MAIL**
+
+
