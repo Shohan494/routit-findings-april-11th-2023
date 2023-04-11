@@ -6,6 +6,14 @@
 - so far the finding is the same as keen, need to update status based on invoicehub api call response
 
 - checked last 3 invoices, maximum verkoop klant 0
+- below sections are having confusions, related with azure and belkosten calculations
+
+```
+	public function automatedTelephonyInvoiceToInvoicehub()
+
+				//$this->testLongRun();
+				//$this->testLongRun2();
+```
 
 ## leesyprint 
 
