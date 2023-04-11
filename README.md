@@ -10,7 +10,7 @@ Route::get('submitLeesyPrintHostfactData', 'LeesyPrintHostfactController@submitL
 
 before import
 // check current date or month and then check and match "period" => $data['period'],
+DONE
 
 also before submit to hostfact
-
 // check current date or month and then check and match "period" => $data['period'],
