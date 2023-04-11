@@ -1,5 +1,10 @@
 # routit-findings-april-11th-2023
 
+## About routit 
+- february data missing
+- march got a few, may be one data
+- so far the finding is the same as keen, need to update status based on invoicehub api call response
+
 ## leesyprint 
 
 flow
