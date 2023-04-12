@@ -36,6 +36,6 @@ Route::get('submitLeesyPrintHostfactData', 'LeesyPrintHostfactController@submitL
 - ** QUESTION - MAIL WAS READ AND MOVED, NEED TO CHECK MAIL**
 
 - answer, file attachment was saving twice
-- leesyprint data 2023-02 imported
+- leesyprint data 2023-02 imported ans sent
 
 
