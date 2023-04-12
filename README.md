@@ -35,4 +35,7 @@ Route::get('submitLeesyPrintHostfactData', 'LeesyPrintHostfactController@submitL
 - ** QUESTION - WE GET SO MANY FILES, WHICH ONE TO PICK? **
 - ** QUESTION - MAIL WAS READ AND MOVED, NEED TO CHECK MAIL**
 
+- answer, file attachment was saving twice
+- leesyprint data 2023-02 imported
+
 
